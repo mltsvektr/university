@@ -1,4 +1,4 @@
-package ru.maltseva.university.util;
+package ru.maltseva.university.entity;
 
 public interface StudentInterface {
     void visitLessons();

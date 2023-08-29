@@ -1,8 +1,5 @@
 package ru.maltseva.university.entity;
 
-import ru.maltseva.university.util.CommonInterface;
-import ru.maltseva.university.util.TeacherInterface;
-
 public class Teacher implements CommonInterface, TeacherInterface {
     private String firstName;
     private String lastName;

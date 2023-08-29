@@ -1,7 +1,7 @@
 package ru.maltseva.university.service;
 
-import ru.maltseva.university.util.CommonInterface;
-import ru.maltseva.university.util.TeacherInterface;
+import ru.maltseva.university.entity.CommonInterface;
+import ru.maltseva.university.entity.TeacherInterface;
 
 public class TeacherRunnerService {
     public static void runTeacherCommonAction(CommonInterface commonInterface) {
